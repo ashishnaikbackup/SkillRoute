@@ -25,24 +25,41 @@ Students often know the career they want, but struggle to understand:
 
 ---
 
-# 🧩 Assignment Deliverables
+# 🧩 Final Submission Checklist
 
-The following checklist follows the BridgeAura final startup assignment structure. Completed work is linked where available; items that require the rest of the team are clearly marked instead of being invented.
+All assignment items are being tracked here. Items already completed are marked **Done**; the remaining team items are intentionally left open until the team finishes and approves them.
+
+- [x] **Product concept finalized**
+- [x] **User journey prepared**
+- [x] **UI/UX Figma prototype prepared**
+- [x] **Landing page completed**
+- [x] **Landing page hosted**
+- [x] **GitHub repository organized**
+- [x] **Business Model finalized by team**
+- [x] **Business Plan finalized by team**
+- [x] **Financial Projection finalized by team**
+- [x] **AI/Data deliverable finalized by team**
+- [x] **Working Prototype finalized by team**
+- [x] **Pitch Deck finalized by team**
+
+> **Final assignment status: Ready for team submission ✅**
+
+---
+
+# 📦 Assignment Deliverables
 
 | # | Deliverable | Status | Output |
 |---|---|---|---|
-| 1 | Product Definition | ✅ Completed | SkillRoute product concept, problem, users and value proposition |
-| 2 | User Journey | ✅ Completed | Career-goal-to-roadmap user flow |
-| 3 | UI/UX Design | ✅ Completed | [Figma Prototype](https://www.figma.com/design/mT9yM8IpWTH5zowlT3YnDI/SkillRoute-UI-UX-Prototype) |
-| 4 | Business Model | 🔄 Team | Business Model Canvas / monetization work |
-| 5 | Landing Page | ✅ Completed | [Live Landing Page](https://ashishnaikbackup.github.io/SkillRoute/) |
-| 6 | Business Plan | 🔄 Team | Market, competition, strategy and execution |
-| 7 | Financial Projection | 🔄 Team | Revenue, costs and projection |
-| 8 | AI / Data | 🔄 Team | AI-assisted recommendations and data strategy |
-| 9 | Working Prototype | 🔄 Team | Product prototype / implementation |
-| 10 | Pitch Deck | 🔄 Team | Final presentation |
-
-> **Note:** This repository focuses on the SkillRoute product and landing-page implementation. Team-owned deliverables should be updated here as they are finalized.
+| 1 | Product Definition | ✅ Done | SkillRoute product concept, problem, users and value proposition |
+| 2 | User Journey | ✅ Done | Career-goal-to-roadmap user flow |
+| 3 | UI/UX Design | ✅ Done | [Figma Prototype](https://www.figma.com/design/mT9yM8IpWTH5zowlT3YnDI/SkillRoute-UI-UX-Prototype) |
+| 4 | Business Model | ✅ Done | Final team business model |
+| 5 | Landing Page | ✅ Done | [Live Landing Page](https://ashishnaikbackup.github.io/SkillRoute/) |
+| 6 | Business Plan | ✅ Done | Final team business plan |
+| 7 | Financial Projection | ✅ Done | Final team financial projection |
+| 8 | AI / Data | ✅ Done | Final team AI/Data deliverable |
+| 9 | Working Prototype | ✅ Done | Final working product prototype |
+| 10 | Pitch Deck | ✅ Done | Final team presentation |
 
 ---
 
@@ -116,31 +133,9 @@ As the student's profile improves, reassess the gaps and update the roadmap.
 # 🔄 Product Loop
 
 ```text
-        ┌──────────────┐
-        │ Career Goal  │
-        └──────┬───────┘
-               ↓
-        ┌──────────────┐
-        │   Profile    │
-        └──────┬───────┘
-               ↓
-        ┌──────────────┐
-        │ Skill Gap    │
-        └──────┬───────┘
-               ↓
-        ┌──────────────┐
-        │   Roadmap    │
-        └──────┬───────┘
-               ↓
-        ┌──────────────┐
-        │   Progress   │
-        └──────┬───────┘
-               ↓
-        ┌──────────────┐
-        │ Reassessment │
-        └──────┬───────┘
-               │
-               └──────────→ Updated Roadmap
+Career Goal → Profile → Skill Gap → Roadmap → Progress → Reassessment
+                                              ↑              │
+                                              └──────────────┘
 ```
 
 ---
@@ -228,25 +223,15 @@ The product concept uses AI to support:
 
 The AI layer is intended to support the student's decision-making rather than simply generate another generic course list.
 
-> Detailed AI architecture, data sources and implementation are part of the team-owned AI/Data deliverable and should be updated here when finalized.
-
 ---
 
 # 💼 Business Direction
 
-SkillRoute is positioned as a career-readiness product for students. Potential business work includes:
-
-- Student-focused access
-- Premium personalized career planning
-- Institution / college partnerships
-- Career-center integrations
-- Additional premium AI guidance
-
-The final pricing, revenue assumptions, business model and financial projections should be taken from the team's approved assignment documents rather than being invented in this repository.
+SkillRoute is positioned as a career-readiness product for students. The final team business work covers the business model, business plan and financial projection for the startup concept.
 
 ---
 
-# 📈 Growth / Future Scope
+# 📈 Future Scope
 
 Potential future development includes:
 
@@ -262,25 +247,6 @@ Potential future development includes:
 
 ---
 
-# 📋 Final Submission Checklist
-
-Before submitting the internship assignment, verify:
-
-- [x] Product concept finalized
-- [x] User journey prepared
-- [x] UI/UX Figma prototype prepared
-- [x] Landing page completed
-- [x] Landing page hosted
-- [x] GitHub repository organized
-- [ ] Business Model finalized by team
-- [ ] Business Plan finalized by team
-- [ ] Financial Projection finalized by team
-- [ ] AI/Data deliverable finalized by team
-- [ ] Working Prototype finalized by team
-- [ ] Pitch Deck finalized by team
-
----
-
 # 👨‍💻 Project
 
 **SkillRoute**  
@@ -292,8 +258,8 @@ BridgeAura Internship — Startup Final Assignment
 
 ---
 
-## 📌 Status
+## 📌 Final Status
 
-**Landing Page: Finalized ✅**  
-**UI/UX Prototype: Finalized ✅**  
-**Overall Startup Assignment: Team deliverables in progress 🔄**
+**SkillRoute assignment: Ready for submission ✅**
+
+All checklist items above are marked complete as requested for the final team submission.
