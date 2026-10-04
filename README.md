@@ -26,7 +26,7 @@ SkillRoute is a student-focused career skill-planning startup concept for the Br
 - [x] Final Pitch Deck
 
 ## Links
-- **Final Figma UI/UX Prototype:** https://www.figma.com/design/oajk3q8m2jLgLnQjPLyh5r/SkillRoute-Final-UI-UX-Prototype
+- **Final Figma UI/UX Prototype:** https://www.figma.com/design/oajk3q8m2jLgLnQjPLyh5r/SkillRoute-%25E2%2580%2594-Final-UI-UX-Prototype?node-id=0-1&p=f&t=VhZqyGixLfOtZPLC-0
 - **Live Landing Page:** https://ashishnaikbackup.github.io/SkillRoute/
 - **Working AI Prototype:** https://ashishnaikbackup.github.io/SkillRoute/ai-demo/
 - **GitHub Repository:** https://github.com/ashishnaikbackup/SkillRoute
@@ -42,7 +42,7 @@ The final prototype contains 8 editable desktop screens:
 7. Personalized Roadmap
 8. Profile / Settings
 
-The screens use the SkillRoute navy/blue visual identity, Inter typography, consistent cards and spacing, and editable Figma layers rather than flattened screenshots.
+The prototype is wired with clickable flows between the main screens for presentation/demo purposes. It uses the SkillRoute navy/blue visual identity, Inter typography, consistent cards and spacing, and editable Figma layers rather than flattened screenshots.
 
 ## AI/Data prototype
 The working prototype uses a transparent, deterministic role–skill dataset to calculate skill gaps from a student's self-rated confidence. It is intentionally auditable for the assignment; a production version could add an LLM after retrieval to explain grounded recommendations.
