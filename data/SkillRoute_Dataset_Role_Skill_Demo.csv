@@ -1,0 +1,26 @@
+role,skill,target_level,priority,why_it_matters
+Frontend Developer,HTML/CSS,5,Core,Build semantic responsive web interfaces
+Frontend Developer,JavaScript,5,Core,Build interactive browser applications
+Frontend Developer,Git/GitHub,4,Core,Version control and collaboration
+Frontend Developer,React,4,High,Component-based frontend development
+Frontend Developer,REST APIs,4,High,Connect interfaces to application data
+Frontend Developer,Testing,3,Supporting,Validate UI behavior and reliability
+Frontend Developer,Accessibility,3,Supporting,Build usable interfaces for diverse users
+Data Analyst,SQL,5,Core,Query and transform structured data
+Data Analyst,Excel/Spreadsheets,4,Core,Clean and analyze tabular data
+Data Analyst,Python,4,High,Automate analysis and data preparation
+Data Analyst,Statistics,4,High,Interpret patterns and uncertainty
+Data Analyst,Data Visualization,4,High,Communicate insights visually
+Data Analyst,Power BI/Tableau,3,Supporting,Build interactive dashboards
+UI/UX Designer,User Research,5,Core,Understand user needs and behaviors
+UI/UX Designer,Figma,5,Core,Create interface and interaction designs
+UI/UX Designer,Wireframing,4,Core,Explore information architecture and layouts
+UI/UX Designer,Prototyping,4,High,Test and communicate product flows
+UI/UX Designer,Design Systems,4,High,Create consistent reusable UI patterns
+UI/UX Designer,Usability Testing,3,Supporting,Validate designs with users
+VLSI / Embedded,Digital Logic,5,Core,Design and reason about digital systems
+VLSI / Embedded,Verilog/SystemVerilog,5,Core,Describe and verify digital hardware
+VLSI / Embedded,C/C++,4,High,Develop embedded and low-level software
+VLSI / Embedded,FPGA/Vivado,4,High,Implement and test hardware designs
+VLSI / Embedded,Computer Architecture,3,Supporting,Understand processor and memory systems
+VLSI / Embedded,Git/GitHub,3,Supporting,Version and collaborate on hardware/software work
