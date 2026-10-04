@@ -4,6 +4,9 @@
 
 SkillRoute is a student-focused career skill-planning startup concept for the BridgeAura final assignment. It helps students turn a career goal and personal profile into a clearer route of skills, projects and next steps.
 
+## Team
+**Pixel Pioneers** — Bloyton Estrocio · Bhagwan Dhuri · Ashish Rajesh Naik · Karol Fernandes · Anshul Fernandes
+
 ## Core flow
 **Career Goal → Student Profile → Skill Assessment → Skill-Gap Analysis → Personalized Roadmap → Progress → Reassessment**
 
@@ -20,10 +23,10 @@ SkillRoute is a student-focused career skill-planning startup concept for the Br
 - [x] AI/Data strategy
 - [x] Dataset & Sources
 - [x] Working AI/Data prototype
-- [x] Pitch Deck
+- [x] Final Pitch Deck
 
 ## Links
-- **Figma Prototype:** https://www.figma.com/design/81SqgPR8QBOHN2j2Wov7Oh
+- **Figma Prototype:** https://www.figma.com/design/81SqgPR8QBOHN2j2Wov7Oh/SkillRoute-UI-UX-Prototype-%25E2%2580%2594-BridgeAura?node-id=5-2&p=f&t=244uIL1vcksMI9hX-0
 - **Live Landing Page:** https://ashishnaikbackup.github.io/SkillRoute/
 - **Working AI Prototype:** https://ashishnaikbackup.github.io/SkillRoute/ai-demo/
 - **GitHub Repository:** https://github.com/ashishnaikbackup/SkillRoute
